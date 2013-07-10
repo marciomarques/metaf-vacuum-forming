@@ -1,0 +1,33 @@
+.Header{
+    color: white;
+    min-height: 80px;
+    margin-top: 20px;
+}
+
+.Logo{
+    background: url(images/logo.png) no-repeat;
+    width: 260px;
+    min-height: 47px;
+    margin-top: 10px;
+    display:block;
+    text-indent: -9999px;
+}
+
+a{
+  font-size: 14px;
+  color: #ccc;
+  text-decoration: underline;
+}
+
+.Header h1{
+    font-size: 26px;
+    line-height: 30px;
+    color: #fff;
+}
+
+.Header h2{
+    font-size: 24px;
+    font-weight:400;
+    line-height: 26px;
+    color: #fff;
+}

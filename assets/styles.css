@@ -1,0 +1,57 @@
+body{
+    background: #232119;
+}
+
+.text-center{
+	text-align: center;
+}
+.center{
+	margin: 0 auto;
+}
+
+.Produtc-img{
+    width: 400px;
+    min-height: 400px;
+    background: #fff url(images/vacuum-forming.jpg) no-repeat center;
+    padding: 20px
+}
+
+.Produtc-slider{
+    min-height: 400px;
+    margin-top: 30px; 
+    padding-top: 50px;
+    padding-top: 50px;
+    margin-bottom: 30px;
+    background-color: #fff;
+}
+
+.Email{
+    min-height: 400px;
+    background-color: #f0f0f0;
+    padding: 20px;
+}
+
+.Email h2{
+    font-size: 16px;
+    font-weight:100;
+    line-height: 80px;
+    color: #fff;
+    text-align:center;
+    background-color: #30302d;
+    margin-top: 0;
+}
+
+section{
+    padding: 50px 0 50px 0;
+}
+
+.footer{
+    background-color: #333126;
+    color: #fff;
+    padding: 10px;
+}
+
+.footer p{
+    margin-top: 10px;
+    line-height: 10px;
+}
